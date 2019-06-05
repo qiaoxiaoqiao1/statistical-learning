@@ -1,0 +1,51 @@
+best cross-validation result:
+{'punct': False, 'features': [<function token_features at 0x7f23ccdf2158>, <function token_pair_features at 0x7f23ccdf21e0>, <function lexicon_features at 0x7f23ccdf2268>], 'min_freq': 5, 'accuracy': 0.7700000000000001}
+worst cross-validation result:
+{'punct': True, 'features': [<function lexicon_features at 0x7f23ccdf2268>], 'min_freq': 2, 'accuracy': 0.6525000000000001}
+
+Mean Accuracies per Setting:
+features=token_pair_features lexicon_features: 0.75458
+features=token_features token_pair_features lexicon_features: 0.75000
+features=token_features token_pair_features: 0.74000
+features=token_pair_features: 0.73667
+punct=False: 0.72452
+min_freq=5: 0.72250
+min_freq=2: 0.72107
+punct=True: 0.71298
+min_freq=10: 0.71268
+features=token_features lexicon_features: 0.70292
+features=token_features: 0.69083
+features=lexicon_features: 0.65625
+
+TOP COEFFICIENTS PER CLASS:
+negative words:
+neg_words: 0.63172
+token_pair=is__so: 0.33833
+token_pair=the__worst: 0.33485
+token=nothing: 0.31532
+token=only: 0.26958
+
+positive words:
+pos_words: 0.45833
+token=it: 0.26952
+token_pair=it__is: 0.25677
+token_pair=to__find: 0.25313
+token_pair=i__d: 0.24588
+testing accuracy=0.780000
+
+TOP MISCLASSIFIED TEST DOCUMENTS:
+
+truth=1 predicted=0 proba=0.9988590952972906
+This movie blew me away - I have only seen two episodes of the show, never saw the first movie, but went to a pre-screening where Johnny Knoxville himself introduced the movie, telling us to 'turn off our sense of moral judgment for an hour and a half.' He was right. As a movie, this would probably rate a 2, given it has zero plot, no structure besides randomness, and very little production value. However, that isn't the point. Everyone in our theatre was laughing and gasping the whole way through - not only were some of the stunts creative (see trailer if you need to know but they hid some of the best (or worst depending on how you want to look at it)), but some of the stuff they did took us completely by surprise. These guys do some stuff that won't make it into your newspaper reviews (and probably can't even be published here), involving lots of things below the belt. However, almost 3/4 of the stunts are fantastically hysterical (even if morally condemnable, but remember Knoxville's statement), and if you are in the right mindset this movie is hysterical to watch. Only about 20 minutes of this movie could have actually been shown on TV, so consider yourself warned of what you're getting into - some stuff is disgusting, but instead of being repulsed by it you end up laughing at the sheer stupidity of it all. As a person who thought Jackass the TV show was an over-hyped fad with only a few funny sketches and lots of unnecessary pain, the amount of fun I had at this movie has made me realize that having no boundaries is the best environment for these guys to work in. It's a lot of fun and should be a great comedic fix until the Borat movie comes out. With this movie, you may think you know what you're getting, but these guys are a few steps ahead of you - I guarantee you'll be surprised by the 3rd sketch. So enjoy, and don't worry: you won't want to perform almost any of their stuff at home.
+
+truth=1 predicted=0 proba=0.9977699132748207
+In defense of this movie I must repeat what I had stated previously. The movie is called Arachina, it has a no name cast and I do not mean no name as in actors who play in little seen art house films. I mean no name as in your local high school decided to make a film no name and it might have a 2 dollar budget. So what does one expect? Hitchcock?<br /><br />I felt the movie never took itself seriously which automatically takes it out of the worst movie list. That list is only for big budget all star cast movies that takes itself way too seriously. THe movie The Oscar comes to mind, most of Sylvester Stallone's movies. THe two leads were not Hepburn and Tracy but they did their jobs well enough for this movie. The woman kicked butt and the guy was not a blithering idiot. The actor who played the old man was actually very good. The man who played anal retentive professor was no Clifton Webb but he did a god job. And the Bimbo's for lack of a better were played by two competent actors. I laughed at the 50 cent special effects. But that was part of the charm of the movie. It played like a hybrid Tremors meets Night of the Living Dead. The premise of the movie is just like all Giant Bug movies of the 50's. A Meteor or radiation stir up the ecosystem and before you know it we have Giant Ants, Lobsters, rocks or Lizards terrorizing the locals. A meteor was the cause of the problems this time. I was was very entertained. I didn't expect much and I go a lot more then I bargained for.
+
+truth=1 predicted=0 proba=0.9965199881831542
+Being a freshman in college, this movie reminded me of my relationship with my mom. Of course, my situation doesn't parrallel with Natalie Portman and Surandon's situation; but my mom and I have grown up with the typical mother and daughter fights. There is always the mother telling you what to do, or not being the kind of mother you want to be. I was balling my eyes at the end of this movie. Surandon's reaction of her daughter going to the East coast, miles away, after all they've been through reminded me of how I felt, being from a small city in the West coast, going to New York. <br /><br />The movie is meant for women who have children that are now all grown up. It is very touching, I was moved by the movie. Every feeling out of the characters in this movie was utterly real, you didn't get any phony sentimentality. I was sitting through the credits at the screening of this movie, alone, wishing my mother was sitting next to me so I could hug her and thank her for everything. This movie is a bit corny of course, but everything is trully momentous. Its all about what a mom can learn from her child; and what a child learns from her mother. 8/10
+
+truth=1 predicted=0 proba=0.9947494714201609
+There I was on vacation when my host suggested we take in this B-Movie festival in Breda. I was resistant, as I hadn't gone on the trip to sit in a movie theater, but I've got to admit that I don't regret a second of this one (especially with Stephen Malkmus' contribution). It probably helped that I had no idea what to expect.<br /><br />SEA OF DUST starts out like a typical costume drama. We've got a young medical student going to help a doctor whose town is being destroyed by a crazy plague (which somehow involves exploding heads). On the way, he stops to visit his fiancé and gets thrown off the property by her father. Traveling on, he finds a girl lying on the road, another plague victim, and takes her along to the doctor's. Yawn, I thought. It all seemed pretty predicable.<br /><br />And then everything went crazy and it suddenly turned into a completely different film. Tom Savini shows up looking like Dracula, characters begin traveling to "the other side" of reality, and the dialog gets increasingly humorous.<br /><br />And just when I thought it had settled into a groove, the picture changes again, becoming really dark and bizarre. I won't spoil it for first time viewers, but there's an amazing sequence about hollow people, lots of chat about the abuse of religion by society, and some over-the-top gore effects. And did I mention Stephen Malkmus? This isn't a perfect movie (in case you haven't figured that out from its appearance at a B-Movie festival), but it's well worth the time for adventurous viewers. Great visuals, cool soundtrack, lots of interesting ideas. The acting is a little zany at times, but I think that's the point.<br /><br />Funny I had to go to Breda to see find an American picture that looked like a British horror movie. You figure that one out...
+
+truth=0 predicted=1 proba=0.9935099195837974
+I absolutely despise this film. I wanted to love it - I really wanted to. But man, oh man - they were SO off with Sara. And the father living was pretty cheesy. That's straight out of the Shirley Temple film.<br /><br />I highly recommend THE BOOK. It is amazing. In the book, Sara is honorable and decent and she does the right thing... BECAUSE IT IS RIGHT. She doesn't have a spiteful bone in her body.<br /><br />In the film, she is mean-spirited and spiteful. She does little things to get back at Miss Minchin. In the book, Sara is above such things. She DOES stand up to Miss Minchin. She tells the truth and is not cowed by her. But she does not do the stupid, spiteful things that the Sara in the film does.<br /><br />It's really rather unsettling to me that so many here say they loved the book and they love the movie. I can't help but wonder... did we read the same book? The whole point of the book was personal responsibility, behaving with honor and integrity, ALWAYS telling the truth and facing adversity with calm and integrity.<br /><br />Sara has a happy ending in the book - not the ridiculous survival of her father, but the joining with his partner who has been searching for her. In the book, she is taken in by this new father figure who loves and cares for her and Becky. And Miss Minchin is NOT a chimney sweep - that part of the film really was stupid.<br /><br />To see all this praise for this wretched film is disturbing to me. We are praising a film that glorifies petty, spiteful behavior with a few tips of the hat to kindness? Sara in the book was kind to the bone and full of integrity. I don't even recognize her in the film... she's not in it.<br /><br />Good thing Mrs. Burnett isn't alive to see this horrid thing. It's ghastly and undeserving to bear the title of her book.
